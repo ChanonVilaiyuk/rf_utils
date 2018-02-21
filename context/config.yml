@@ -1,0 +1,2 @@
+separator: ::
+format: project::entity::entityGrp::entityParent::entity::step::process::version::workspace
